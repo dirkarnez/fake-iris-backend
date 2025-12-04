@@ -2,6 +2,9 @@ fake-iris-backend
 =================
 Faking (iris) restful api server so whole web application can be demoed as static pages (with hash-router, github pages does not support SPA)
 
+### How
+- Fork [kataras/iris](https://github.com/kataras/iris) and add special adaptor package thats implement a subset of API
+
 ### To tackle
 - Web database adapter
 - wrapped fetch
