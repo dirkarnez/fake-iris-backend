@@ -5,6 +5,10 @@ Faking (iris) restful api server so whole web application can be demoed as stati
 ### How
 - Fork [kataras/iris](https://github.com/kataras/iris) and add special adaptor package thats implement a subset of API
 
+### Reference
+- [TrevorDArcyEvans/BlazorSQLiteWasm: Blazor + EF Core + SQLite + WASM all running in a browser together! What could possibly go wrong?](https://github.com/TrevorDArcyEvans/BlazorSQLiteWasm)
+- Emscripten FS abstraction
+
 ### To tackle
 - Web database adapter
 - wrapped fetch
